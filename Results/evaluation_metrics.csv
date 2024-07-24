@@ -1,0 +1,5 @@
+Metric,Score
+Precision,0.7928571428571428
+Recall,1.0
+Accuracy,0.7928571428571428
+Average Cross-Validation Score,0.8028571428571428
