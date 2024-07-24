@@ -59,11 +59,12 @@ The dataset used for this project contains information about kidney stone size a
 - **Cross-Validation:** 5-fold cross-validation for robust model evaluation.
 
 ## Results
-The model achieved the following performance metrics on the test set:
-- **Precision:** X.XX
-- **Recall:** X.XX
-- **Accuracy:** X.XX
-- **Average Cross-Validation Score:** X.XX
+![image](https://github.com/user-attachments/assets/33e6bedf-0b84-46f4-9b58-030372c0b80e)
+
+![Confusion Matrix](https://github.com/user-attachments/assets/f1e3b719-d654-4769-932f-12c6fd72db84)
+![Receiver Operating Characteristic](https://github.com/user-attachments/assets/ae8650ee-3aa6-4e51-8df4-350f4a65924c)
+
+
 
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request.
